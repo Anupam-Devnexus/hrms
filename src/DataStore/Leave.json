@@ -1,0 +1,17 @@
+[
+  { "leaveId": "LV001", "employeeId": "EMP001", "fromDate": "2025-07-10", "toDate": "2025-07-12", "type": "Casual Leave", "status": "Pending", "reason": "Personal work" },
+  { "leaveId": "LV002", "employeeId": "EMP002", "fromDate": "2025-07-15", "toDate": "2025-07-16", "type": "Sick Leave", "status": "Approved", "reason": "Fever" },
+  { "leaveId": "LV003", "employeeId": "EMP003", "fromDate": "2025-07-05", "toDate": "2025-07-06", "type": "Work From Home", "status": "Approved", "reason": "Family emergency" },
+  { "leaveId": "LV004", "employeeId": "EMP004", "fromDate": "2025-07-20", "toDate": "2025-07-25", "type": "Annual Leave", "status": "Pending", "reason": "Vacation" },
+  { "leaveId": "LV005", "employeeId": "EMP005", "fromDate": "2025-07-08", "toDate": "2025-07-08", "type": "Sick Leave", "status": "Rejected", "reason": "Fever" },
+  { "leaveId": "LV006", "employeeId": "EMP006", "fromDate": "2025-07-11", "toDate": "2025-07-11", "type": "Casual Leave", "status": "Pending", "reason": "Bank work" },
+  { "leaveId": "LV007", "employeeId": "EMP007", "fromDate": "2025-07-14", "toDate": "2025-07-15", "type": "Sick Leave", "status": "Approved", "reason": "Stomach ache" },
+  { "leaveId": "LV008", "employeeId": "EMP008", "fromDate": "2025-07-03", "toDate": "2025-07-03", "type": "Casual Leave", "status": "Approved", "reason": "Urgent work" },
+  { "leaveId": "LV009", "employeeId": "EMP009", "fromDate": "2025-07-18", "toDate": "2025-07-20", "type": "Annual Leave", "status": "Pending", "reason": "Trip" },
+  { "leaveId": "LV010", "employeeId": "EMP010", "fromDate": "2025-07-09", "toDate": "2025-07-09", "type": "Work From Home", "status": "Approved", "reason": "Rainy day" },
+  { "leaveId": "LV011", "employeeId": "EMP011", "fromDate": "2025-07-22", "toDate": "2025-07-24", "type": "Casual Leave", "status": "Pending", "reason": "Marriage function" },
+  { "leaveId": "LV012", "employeeId": "EMP012", "fromDate": "2025-07-13", "toDate": "2025-07-13", "type": "Sick Leave", "status": "Approved", "reason": "Medical test" },
+  { "leaveId": "LV013", "employeeId": "EMP013", "fromDate": "2025-07-26", "toDate": "2025-07-26", "type": "Casual Leave", "status": "Rejected", "reason": "Unplanned" },
+  { "leaveId": "LV014", "employeeId": "EMP014", "fromDate": "2025-07-28", "toDate": "2025-07-30", "type": "Annual Leave", "status": "Approved", "reason": "Family trip" },
+  { "leaveId": "LV015", "employeeId": "EMP015", "fromDate": "2025-07-29", "toDate": "2025-07-30", "type": "Work From Home", "status": "Pending", "reason": "Connectivity issues" }
+]

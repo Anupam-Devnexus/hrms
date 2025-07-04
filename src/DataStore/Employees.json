@@ -1,0 +1,17 @@
+[
+  { "id": "EMP001", "name": "Amit Sharma", "designation": "Frontend Developer", "department": "Engineering", "email": "amit.sharma@example.com", "phone": "9876543210", "location": "Noida", "doj": "2022-03-15", "status": "Active" },
+  { "id": "EMP002", "name": "Priya Verma", "designation": "HR Manager", "department": "Human Resources", "email": "priya.verma@example.com", "phone": "9876501234", "location": "Mumbai", "doj": "2021-06-01", "status": "Active" },
+  { "id": "EMP003", "name": "Rajeev Ranjan", "designation": "Backend Developer", "department": "Engineering", "email": "rajeev.r@example.com", "phone": "8876501234", "location": "Bangalore", "doj": "2023-01-20", "status": "Active" },
+  { "id": "EMP004", "name": "Anita Desai", "designation": "UI/UX Designer", "department": "Design", "email": "anita.desai@example.com", "phone": "8876543210", "location": "Delhi", "doj": "2022-10-05", "status": "Active" },
+  { "id": "EMP005", "name": "Manish Tiwari", "designation": "DevOps Engineer", "department": "Engineering", "email": "manish.tiwari@example.com", "phone": "9898989898", "location": "Hyderabad", "doj": "2020-12-10", "status": "Active" },
+  { "id": "EMP006", "name": "Sneha Iyer", "designation": "Data Analyst", "department": "Data Science", "email": "sneha.iyer@example.com", "phone": "9123456780", "location": "Chennai", "doj": "2021-08-18", "status": "Active" },
+  { "id": "EMP007", "name": "Nikhil Sinha", "designation": "QA Engineer", "department": "QA", "email": "nikhil.sinha@example.com", "phone": "9988776655", "location": "Pune", "doj": "2023-03-12", "status": "Active" },
+  { "id": "EMP008", "name": "Kiran Rao", "designation": "Project Manager", "department": "Management", "email": "kiran.rao@example.com", "phone": "9876123456", "location": "Gurgaon", "doj": "2019-11-01", "status": "Active" },
+  { "id": "EMP009", "name": "Tanya Singh", "designation": "Marketing Lead", "department": "Marketing", "email": "tanya.singh@example.com", "phone": "9988123444", "location": "Ahmedabad", "doj": "2022-07-25", "status": "Active" },
+  { "id": "EMP010", "name": "Vikash Mishra", "designation": "Software Tester", "department": "QA", "email": "vikash.m@example.com", "phone": "9988775544", "location": "Lucknow", "doj": "2021-04-01", "status": "Active" },
+  { "id": "EMP011", "name": "Ayesha Khan", "designation": "HR Executive", "department": "Human Resources", "email": "ayesha.khan@example.com", "phone": "9887766554", "location": "Kolkata", "doj": "2022-05-30", "status": "Active" },
+  { "id": "EMP012", "name": "Harsh Kapoor", "designation": "Content Writer", "department": "Marketing", "email": "harsh.k@example.com", "phone": "9888997766", "location": "Jaipur", "doj": "2023-02-14", "status": "Active" },
+  { "id": "EMP013", "name": "Ritika Mehta", "designation": "Graphic Designer", "department": "Design", "email": "ritika.mehta@example.com", "phone": "9990001122", "location": "Surat", "doj": "2020-06-17", "status": "Active" },
+  { "id": "EMP014", "name": "Aditya Chauhan", "designation": "System Admin", "department": "IT Support", "email": "aditya.ch@example.com", "phone": "9090909090", "location": "Indore", "doj": "2021-01-11", "status": "Active" },
+  { "id": "EMP015", "name": "Neha Bansal", "designation": "Product Manager", "department": "Product", "email": "neha.b@example.com", "phone": "9876540001", "location": "Delhi", "doj": "2022-09-09", "status": "Active" }
+]
