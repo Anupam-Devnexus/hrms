@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import AttendanceData from "../DataStore/attendence.json";
-import EmployeeData from "../DataStore/employees.json";
-import LeaveData from "../DataStore/leave.json";
+import EmployeeData from "../DataStore/Employees.json";
+import LeaveData from "../DataStore/Leave.json";
 import PayrollData from "../DataStore/payroll.json";
-import RecruitmentData from "../DataStore/recruitments.json";
+import RecruitmentData from "../DataStore/Recruitments.json";
 import Card from "../Components/Cards/Dashcard";
 import { FaPeopleLine } from "react-icons/fa6";
 import { FaPaypal } from "react-icons/fa";

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import EmployeeData from "../../DataStore/employees.json"; // Your employee data
-import AttendanceData from "../../DataStore/attendence.json"; // Your attendance data
+import EmployeeData from "../../DataStore/Employees.json"; // Your employee data
+import AttendanceData from "../../DataStore/Attendence.json"; // Your attendance data
 
 const PAGE_SIZE = 10;
 
