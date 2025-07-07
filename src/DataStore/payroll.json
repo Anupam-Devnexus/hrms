@@ -1,0 +1,17 @@
+[
+  { "employeeId": "EMP001", "month": "June", "year": 2025, "basic": 30000, "hra": 12000, "bonus": 2000, "deductions": 1500, "netSalary": 42500, "paidOn": "2025-06-30" },
+  { "employeeId": "EMP002", "month": "June", "year": 2025, "basic": 35000, "hra": 14000, "bonus": 3000, "deductions": 1700, "netSalary": 50300, "paidOn": "2025-06-30" },
+  { "employeeId": "EMP003", "month": "June", "year": 2025, "basic": 28000, "hra": 11000, "bonus": 1000, "deductions": 1300, "netSalary": 38700, "paidOn": "2025-06-30" },
+  { "employeeId": "EMP004", "month": "June", "year": 2025, "basic": 26000, "hra": 10000, "bonus": 500, "deductions": 800, "netSalary": 35700, "paidOn": "2025-06-30" },
+  { "employeeId": "EMP005", "month": "June", "year": 2025, "basic": 40000, "hra": 16000, "bonus": 4000, "deductions": 2000, "netSalary": 58000, "paidOn": "2025-06-30" },
+  { "employeeId": "EMP006", "month": "June", "year": 2025, "basic": 32000, "hra": 12000, "bonus": 2500, "deductions": 1500, "netSalary": 45000, "paidOn": "2025-06-30" },
+  { "employeeId": "EMP007", "month": "June", "year": 2025, "basic": 27000, "hra": 9000, "bonus": 1500, "deductions": 1000, "netSalary": 36500, "paidOn": "2025-06-30" },
+  { "employeeId": "EMP008", "month": "June", "year": 2025, "basic": 50000, "hra": 20000, "bonus": 7000, "deductions": 3000, "netSalary": 74000, "paidOn": "2025-06-30" },
+  { "employeeId": "EMP009", "month": "June", "year": 2025, "basic": 33000, "hra": 13000, "bonus": 1800, "deductions": 1300, "netSalary": 46100, "paidOn": "2025-06-30" },
+  { "employeeId": "EMP010", "month": "June", "year": 2025, "basic": 28000, "hra": 11000, "bonus": 1200, "deductions": 900, "netSalary": 39300, "paidOn": "2025-06-30" },
+  { "employeeId": "EMP011", "month": "June", "year": 2025, "basic": 29000, "hra": 11500, "bonus": 1500, "deductions": 1000, "netSalary": 41000, "paidOn": "2025-06-30" },
+  { "employeeId": "EMP012", "month": "June", "year": 2025, "basic": 26000, "hra": 10000, "bonus": 500, "deductions": 600, "netSalary": 35900, "paidOn": "2025-06-30" },
+  { "employeeId": "EMP013", "month": "June", "year": 2025, "basic": 27000, "hra": 9000, "bonus": 0, "deductions": 700, "netSalary": 35300, "paidOn": "2025-06-30" },
+  { "employeeId": "EMP014", "month": "June", "year": 2025, "basic": 31000, "hra": 12500, "bonus": 1000, "deductions": 800, "netSalary": 42700, "paidOn": "2025-06-30" },
+  { "employeeId": "EMP015", "month": "June", "year": 2025, "basic": 42000, "hra": 18000, "bonus": 3500, "deductions": 2500, "netSalary": 61000, "paidOn": "2025-06-30" }
+]

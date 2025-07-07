@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+:root {
+  --bg-color: #47a4ee;
+  --text-color: #dce7ef;
+  --primary-color: #a4cae7;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto Slab", sans-serif;
+  font-optical-sizing: auto;
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+/* ========== Custom Scrollbar Styles (Modern Browsers) ========== */
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, #4f46e5, #3b82f6); /* indigo to blue */
+  border-radius: 10px;
+  transition: background 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(135deg, #4338ca, #2563eb); /* darker on hover */
+}
+
+/* Firefox support */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #4f46e5 #f1f1f1;
+}

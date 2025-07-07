@@ -1,0 +1,17 @@
+[
+  { "jobId": "JOB001", "title": "Frontend Developer", "department": "Engineering", "location": "Noida", "status": "Open", "postedOn": "2025-06-10", "vacancies": 2 },
+  { "jobId": "JOB002", "title": "Backend Developer", "department": "Engineering", "location": "Remote", "status": "Open", "postedOn": "2025-06-12", "vacancies": 3 },
+  { "jobId": "JOB003", "title": "UI/UX Designer", "department": "Design", "location": "Mumbai", "status": "Closed", "postedOn": "2025-05-25", "vacancies": 1 },
+  { "jobId": "JOB004", "title": "HR Executive", "department": "Human Resources", "location": "Delhi", "status": "Open", "postedOn": "2025-06-01", "vacancies": 1 },
+  { "jobId": "JOB005", "title": "DevOps Engineer", "department": "Engineering", "location": "Bangalore", "status": "Open", "postedOn": "2025-06-18", "vacancies": 2 },
+  { "jobId": "JOB006", "title": "QA Tester", "department": "QA", "location": "Chennai", "status": "Open", "postedOn": "2025-06-20", "vacancies": 2 },
+  { "jobId": "JOB007", "title": "Marketing Executive", "department": "Marketing", "location": "Gurgaon", "status": "Open", "postedOn": "2025-06-25", "vacancies": 1 },
+  { "jobId": "JOB008", "title": "Project Manager", "department": "Management", "location": "Pune", "status": "Open", "postedOn": "2025-06-28", "vacancies": 1 },
+  { "jobId": "JOB009", "title": "Content Writer", "department": "Marketing", "location": "Remote", "status": "Closed", "postedOn": "2025-05-30", "vacancies": 2 },
+  { "jobId": "JOB010", "title": "Data Scientist", "department": "Data Science", "location": "Hyderabad", "status": "Open", "postedOn": "2025-07-01", "vacancies": 1 },
+  { "jobId": "JOB011", "title": "System Administrator", "department": "IT Support", "location": "Ahmedabad", "status": "Open", "postedOn": "2025-07-03", "vacancies": 1 },
+  { "jobId": "JOB012", "title": "Legal Advisor", "department": "Legal", "location": "Delhi", "status": "Open", "postedOn": "2025-07-04", "vacancies": 1 },
+  { "jobId": "JOB013", "title": "Finance Executive", "department": "Finance", "location": "Mumbai", "status": "Closed", "postedOn": "2025-06-15", "vacancies": 2 },
+  { "jobId": "JOB014", "title": "Sales Executive", "department": "Sales", "location": "Kolkata", "status": "Open", "postedOn": "2025-07-02", "vacancies": 3 },
+  { "jobId": "JOB015", "title": "Product Manager", "department": "Product", "location": "Bangalore", "status": "Open", "postedOn": "2025-07-01", "vacancies": 1 }
+]

@@ -1,0 +1,17 @@
+[
+  { "employeeId": "EMP001", "date": "2025-07-01", "status": "Present", "clockIn": "09:00", "clockOut": "18:00" },
+  { "employeeId": "EMP002", "date": "2025-07-01", "status": "Present", "clockIn": "09:15", "clockOut": "17:50" },
+  { "employeeId": "EMP003", "date": "2025-07-01", "status": "Absent", "clockIn": null, "clockOut": null },
+  { "employeeId": "EMP004", "date": "2025-07-01", "status": "Present", "clockIn": "09:05", "clockOut": "18:10" },
+  { "employeeId": "EMP005", "date": "2025-07-01", "status": "Late", "clockIn": "10:00", "clockOut": "18:00" },
+  { "employeeId": "EMP006", "date": "2025-07-01", "status": "Present", "clockIn": "09:10", "clockOut": "18:20" },
+  { "employeeId": "EMP007", "date": "2025-07-01", "status": "Half Day", "clockIn": "13:00", "clockOut": "17:30" },
+  { "employeeId": "EMP008", "date": "2025-07-01", "status": "Present", "clockIn": "09:00", "clockOut": "18:00" },
+  { "employeeId": "EMP009", "date": "2025-07-01", "status": "Present", "clockIn": "09:25", "clockOut": "17:45" },
+  { "employeeId": "EMP010", "date": "2025-07-01", "status": "Present", "clockIn": "09:35", "clockOut": "18:15" },
+  { "employeeId": "EMP011", "date": "2025-07-01", "status": "On Leave", "clockIn": null, "clockOut": null },
+  { "employeeId": "EMP012", "date": "2025-07-01", "status": "Present", "clockIn": "09:30", "clockOut": "18:00" },
+  { "employeeId": "EMP013", "date": "2025-07-01", "status": "Present", "clockIn": "08:50", "clockOut": "18:10" },
+  { "employeeId": "EMP014", "date": "2025-07-01", "status": "Present", "clockIn": "09:00", "clockOut": "18:00" },
+  { "employeeId": "EMP015", "date": "2025-07-01", "status": "Absent", "clockIn": null, "clockOut": null }
+]
